@@ -1,2 +1,1 @@
-# Tugas-Pemrograman-Bergerak Week 1
-
+# Tugas-Pemrograman-Bergerak
